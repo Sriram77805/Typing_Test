@@ -1,0 +1,29 @@
+body.dark-mode {
+  background-color: #0d1117;
+  color: #e6edf3;
+  font-family: 'Consolas', monospace;
+}
+
+.paragraph {
+  background: #161b22;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #e6edf3;
+}
+
+.correct { color: #00ff85; }
+.incorrect { color: #ff5c5c; }
+
+textarea {
+  resize: none;
+  height: 100px;
+  background-color: #161b22 !important;
+  color: white !important;
+  border: 1px solid #30363d !important;
+}
+
+.btn {
+  border-radius: 8px;
+}
